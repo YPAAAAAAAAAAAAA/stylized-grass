@@ -1,0 +1,17 @@
+{
+  "id": "stylized-grass",
+  "title": { "en": "Stylized Grass", "zh": "风格化草地" },
+  "intro": {
+    "en": "Instanced stylized grass and flowers with wind. Full-bleed auto-play.",
+    "zh": "实例化的风格化草地与花朵，风中摇曳。全屏自动播放。"
+  },
+  "officialFiles": [
+    "vendor/index.html",
+    "vendor/grass.css",
+    "vendor/grass.js"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "YPAAAAAAAAAAAAA/stylized-grass",
+  "protocol": 1
+}
